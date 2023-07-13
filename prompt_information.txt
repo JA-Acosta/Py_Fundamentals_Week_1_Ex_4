@@ -1,0 +1,4 @@
+This is the fourth program derived from 100 program suggested by ChatGPT for a 4 week python course. My main goal is to pay close attention to pythonic syntax, creating/updating git repositories, and developing good commenting habits. Upon completing this program, I'll push it to github and request feedback from my peers.
+
+The following ChatGPT prompts was used to develop this program:
+17. Determine if a given year is a leap year or not.
