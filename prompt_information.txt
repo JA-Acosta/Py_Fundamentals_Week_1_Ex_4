@@ -2,3 +2,5 @@ This is the fourth program derived from 100 program suggested by ChatGPT for a 4
 
 The following ChatGPT prompts was used to develop this program:
 17. Determine if a given year is a leap year or not.
+
+NOTE: though the next week covers functions, I couldn't come up with a functional way to generate a leap year if/elif/else statement that would accomplish this. I already understood function returns and thought it best to implement a return statement from the test_year() function vice overcomplicated if statements. my goal is to practice syntax ultimately and develop new skills not to needlessly complicate a program.
